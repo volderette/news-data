@@ -6,7 +6,9 @@
     "abstract": "String",
     "images": "Image[]",
     "views": "Int",
-    "published": "Boolean"
+    "published": "Boolean",
+    "author": "String",
+    "datePublished": "String"
   },
       "Image": {
         "url": "String",
