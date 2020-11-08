@@ -1,0 +1,15 @@
+{
+  "Article": {
+    "articleId": "Int",
+    "title": "String",
+    "subtitle": "String",
+    "abstract": "String",
+    "images": "Image[]",
+    "views": "Int",
+    "published": "Boolean"
+  },
+      Image: {
+        "url": "String",
+        "subtitle":"String",
+    }
+}
