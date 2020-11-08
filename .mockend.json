@@ -8,7 +8,7 @@
     "views": "Int",
     "published": "Boolean"
   },
-      Image: {
+      "Image": {
         "url": "String",
         "subtitle":"String",
     }
